@@ -1,4 +1,5 @@
 ## Cadastro de Usuários
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 - Esta é uma de um sistema de gerenciamento de produtos;
 - Ele será composto de vários módulos, este módulo é apenas para gerenciar os usuários cadastrados no sistema;

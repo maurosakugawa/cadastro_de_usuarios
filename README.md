@@ -12,10 +12,6 @@
 
 **Tabela de conteúdos**
 
-[TOCM]
-
-[TOC]
-
 ## Pré requisitos
 - Cabe aqui a explicação que por ser um pequeno módulo php, as exigências são quase irrisórias;
 - Um servidor seja ele localhost ou online;

@@ -20,4 +20,6 @@
 ## Instalação
 - Instalar o seu servidor php;
 - Instalar um banco relacional de sua preferência;
-- Baixar os códigos do GitHub
+- Baixar os códigos do GitHub;
+- Importar usuario.sql para seu banco de dados, para criar sua tabela usuario;
+- Editar conexao.php com os parêmetros corretos para conectar ao seu banco de dados.

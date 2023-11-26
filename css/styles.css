@@ -1,0 +1,62 @@
+/** Estilizando a cor do título do formulário **/
+.titulo-2 {
+    color:darkblue
+}
+
+/** Estilizando o asterisco do required para aparecer vermelho **/
+.required {
+    color: red;
+    margin-left: 4px;
+}
+
+/* Fundo Gradiente da esquerda azul para a direita o aqua */
+#fundo-azul {
+    background: linear-gradient(to right, #1f104f, #0ff);
+}
+
+/* cor verde no título */
+.green-tittle {
+    color: green !important; 
+}
+
+/**
+ * Define o fundo do formulário como cinza 
+ * Define paddings margin-top
+ * Define cantos arredondados para o container
+ **/
+.container {
+    background-color: #f1efd4;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+/* id exclusivo para input de nome */
+#nome-input {
+  display: inline-block;
+}
+
+/* texto branco no botão */
+.btn-editar{
+    color: #fff !important;
+}
+
+/* estipula as cores de texto do menu dependendo da situação */
+#menu {
+    color: #fff;
+}
+
+#menu1, #menu2 {
+    color: #000;
+}
+
+#menu, #menu1, #menu2 {
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* define largura de 700px */
+.wid-700 {
+    width: 700px;
+}

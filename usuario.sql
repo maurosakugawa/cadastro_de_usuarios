@@ -41,11 +41,11 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`id_usuario`, `nome`, `sobrenome`, `email`, `senha`, `nivel_usuario`) VALUES
-(6, 'J?lia', 'Santos', 'js@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
-(25, 'M?rio', 'Paulino', 'mp@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 2),
+(6, 'Júlia', 'Santos', 'js@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
+(25, 'Mário', 'Paulino', 'mp@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 2),
 (43, 'teste', 'teste', 'tt@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
 (18, 'Maria', 'Clara', 'mc@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
-(24, 'Augusto', 'C?sar', 'ac@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
+(24, 'Augusto', 'César', 'ac@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1),
 (42, 'Pedro', 'Paiva', 'pp@email.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', 1);
 
 --
